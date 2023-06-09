@@ -239,7 +239,7 @@ namespace ds0623
 			//check if user input is valid.
 			if (DateTime.TryParse(userInput, out chosenDate))
 			{
-				return chosenDate;
+				return chosenDate.AddDays(1);
 			}
 			else
 			{
