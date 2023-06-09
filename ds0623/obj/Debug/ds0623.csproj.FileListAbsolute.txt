@@ -1,0 +1,17 @@
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\obj\Debug\ds0623.csproj.AssemblyReference.cache
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\obj\Debug\ds0623.csproj.SuggestedBindingRedirects.cache
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\obj\Debug\ds0623.csproj.CoreCompileInputs.cache
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\nunit.engine.dll
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\nunit.engine.api.dll
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\nunit.engine.core.dll
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\nunit.framework.dll
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\nunit.framework.xml
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\obj\Debug\ds0623.csproj.CopyComplete
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\ds0623.exe.config
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\ds0623.exe
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\bin\Debug\ds0623.pdb
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\obj\Debug\ds0623.exe
+C:\Users\darlan.schwarz_cardi\source\repos\ds0623\obj\Debug\ds0623.pdb
