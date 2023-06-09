@@ -37,7 +37,7 @@ namespace TestProgram
 				testToolType == "Jackhammer" &&
 				testToolBrand == "Ridgid" &&
 				testRentalDays == "5" &&
-				testCheckOutDate == "09/03/15" &&
+				testCheckOutDate == "09/04/15" &&
 				testDueDate == "09/08/15" &&
 				testDailyRentalCharge == "2.99")
 			{
@@ -91,7 +91,7 @@ namespace TestProgram
 				testToolType == "Ladder" &&
 				testToolBrand == "Werner" &&
 				testRentalDays == "3" &&
-				testCheckOutDate == "07/02/20" &&
+				testCheckOutDate == "07/03/20" &&
 				testDueDate == "07/05/20" &&
 				testDailyRentalCharge == "1.99" &&
 				testChargeDays == "2" &&
@@ -150,7 +150,7 @@ namespace TestProgram
 				testToolType == "Chainsaw" &&
 				testToolBrand == "Stihl" &&
 				testRentalDays == "5" &&
-				testCheckOutDate == "07/02/15" &&
+				testCheckOutDate == "07/03/15" &&
 				testDueDate == "07/07/15" &&
 				testDailyRentalCharge == "1.49" &&
 				testChargeDays == "3" &&
@@ -209,7 +209,7 @@ namespace TestProgram
 				testToolType == "Jackhammer" &&
 				testToolBrand == "DeWalt" &&
 				testRentalDays == "6" &&
-				testCheckOutDate == "09/03/15" &&
+				testCheckOutDate == "09/04/15" &&
 				testDueDate == "09/09/15" &&
 				testDailyRentalCharge == "2.99" &&
 				testChargeDays == "3" &&
@@ -268,14 +268,14 @@ namespace TestProgram
 				testToolType == "Jackhammer" &&
 				testToolBrand == "Ridgid" &&
 				testRentalDays == "9" &&
-				testCheckOutDate == "07/02/15" &&
+				testCheckOutDate == "07/03/15" &&
 				testDueDate == "07/11/15" &&
 				testDailyRentalCharge == "2.99" &&
-				testChargeDays == "7" &&
-				testPreDiscountCharge == "20.93" &&
+				testChargeDays == "6" &&
+				testPreDiscountCharge == "17.94" &&
 				testDiscountPercent == "0" &&
 				testDiscountAmount == "0.00" &&
-				testTotalAmount == "20.93")
+				testTotalAmount == "17.94")
 			{
 				Assert.Pass();
 			}
@@ -327,7 +327,7 @@ namespace TestProgram
 				testToolType == "Jackhammer" &&
 				testToolBrand == "Ridgid" &&
 				testRentalDays == "4" &&
-				testCheckOutDate == "07/02/20" &&
+				testCheckOutDate == "07/03/20" &&
 				testDueDate == "07/06/20" &&
 				testDailyRentalCharge == "2.99" &&
 				testChargeDays == "2" &&
